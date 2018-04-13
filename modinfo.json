@@ -8,7 +8,8 @@
   "date": "2018/04/13",
   "description": "Replaces the SI for the Hornet, because it's clearly incorrect.",
   "display_name": "Hornet Icon Fix",
-  "identifier": "com.acesoyster.pa.hornet_si_fix",
+  "forum": "https://forums.uberent.com/threads/rel-hornet-si-fix.72864/",
+  "icon": "https://raw.githubusercontent.com/ACOyster/Hornet_SI_Fix/f33e27850ee88bb251890a3264ffcc35484ff487/modlogo.png",
   "signature": "(not yet implemented)",
   "version": "1.0"
 }
